@@ -49,8 +49,6 @@ Menampilkan grafik kelulusan
 
 # 4. Refleksi pembelajaran
 
-Ini versi lain dengan makna sama tapi susunan kalimat berbeda:
-
 Melalui tugas ini, saya belajar memanfaatkan struktur data array pada Python untuk menampung dan mengelola kumpulan data. Saya juga menguasai operasi dasar seperti menentukan nilai maksimum, minimum, menghitung rata-rata, serta melakukan seleksi data untuk menentukan mahasiswa yang lulus berdasarkan kriteria tertentu.
 
 Di sisi lain, saya memahami konsep kompleksitas algoritma, di mana proses yang melibatkan penelusuran seluruh data memiliki kompleksitas O(n), sedangkan proses seperti pembuatan grafik lebih sederhana karena hanya menggunakan data yang sudah tersedia. Library Matplotlib juga sangat membantu dalam menyajikan data dalam bentuk visual.
